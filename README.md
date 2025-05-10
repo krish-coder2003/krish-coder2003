@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm Krishna Shrangare, a passionate web developer 
 - Contributing to any cool web development project!
 
 ## 📫 How to reach me...
-- LinkedIn: [Krishna Shrangare](https://www.linkedin.com/in/krishna-shrangare-684952237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: krishna shrangare@gmail.com
+- LinkedIn: https://www.linkedin.com/in/krishna-shrangare-684952237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+- Email: krishnashrangare@gmail.com
 
 ## 😄 Pronouns: He/Him
 
