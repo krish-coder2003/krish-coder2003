@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Full--Time-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Nanded,Maharashtra%2C%20India-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Engineering%20Excellence-blueviolet?style=for-the-badge" />
 </p>
 
