@@ -94,10 +94,11 @@
 ## 📊 ELITE ENGINEER METRICS (100% STABLE)
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/krish-coder2003?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/krish-coder2003?style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/krish-coder2003?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/krish-coder2003?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-count/krish-coder2003?label=Public%20Repos&style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/m/krish-coder2003?label=Monthly%20Commits&style=for-the-badge" />
 </p>
+
 
 ---
 
