@@ -95,8 +95,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/krish-coder2003?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repo-count/krish-coder2003?label=Public%20Repos&style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/m/krish-coder2003?label=Monthly%20Commits&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Public%20Repos-View%20on%20Profile-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Active%20Developer-Yes-success?style=for-the-badge" />
 </p>
 
 
