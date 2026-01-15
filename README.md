@@ -1,117 +1,123 @@
-<!-- Animated Header -->
+<!-- ===================== GOD MODE HEADER ===================== -->
 <h1 align="center">
-  Hi 👋, I'm 
-  <span style="color:#4CAF50;">Krishna Shrangare</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Krishna+Shrangare;Software+Engineer;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;Building+Scalable+Systems" />
 </h1>
 
-<h3 align="center">
-  🚀 Entry-Level Software Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast
-</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Full--Time-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Engineering%20Excellence-blueviolet?style=for-the-badge" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Web+Developer;React+%7C+Node.js+%7C+Django;REST+APIs+%7C+Cloud+%7C+CI%2FCD;Always+Learning+New+Technologies" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:4B0082&height=2" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 WHO AM I?
 
-🎓 B.Tech in **Artificial Intelligence & Data Science**  
-💼 Entry-level **Software Engineer & Web Developer**  
-🌐 Passionate about **Full-Stack Development, Cloud, and DevOps**  
-📍 Pune, Maharashtra, India  
+> 🚀 Entry-level **Software Engineer** with strong expertise in  
+> **Full-Stack Development, Cloud Computing & DevOps Automation**.  
+>  
+> I specialize in **building production-ready systems**, secure APIs,  
+> and **automated CI/CD pipelines** that scale.
 
-I enjoy building **real-world applications**, designing **secure REST APIs**, and automating deployments using **CI/CD pipelines**.
+- 🎓 B.Tech – AI & Data Science  
+- 💻 Java | Python | JavaScript  
+- 🌐 Full-Stack (React, Node, Django)  
+- ☁ AWS | Azure | Docker | CI/CD  
+- 📍 Pune, India  
 
 ---
 
-## 🛠️ Tech Stack
+## ⚔️ TECH DOMINANCE
 
-### 💻 Programming & Scripting
+### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,django" />
 </p>
 
-### 🗄️ Databases
+### 🗄 Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-### ☁️ Cloud & DevOps
+### ☁ Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions" />
 </p>
 
-### 🔧 Tools & Platforms
+### 🔧 Engineering Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,linux,git,grafana" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 ELITE PROJECTS
 
-### 🌾 **HĀRVÉST – Full-Stack NGO Platform**
-- React-based public & admin dashboards  
-- Node.js + Express backend with secure authentication  
-- Donations module with payment gateway  
-- Cloudinary image storage & PostgreSQL database  
+### 🌾 **HĀRVÉST — Full-Stack NGO Platform**
+🔹 Scalable React public & admin dashboards  
+🔹 Secure Node.js backend with JWT authentication  
+🔹 Donation system + analytics  
+🔹 Cloudinary media & PostgreSQL  
 
-**Tech:** React, Node.js, Express, Prisma, PostgreSQL, JWT, Cloudinary  
+**Stack:** React · Node.js · Prisma · PostgreSQL · JWT  
 
 ---
 
 ### 🔄 **CI/CD Pipeline Automation**
-- Dockerized applications  
-- GitHub Actions for CI/CD  
-- AWS EC2 automated deployment  
-- Reduced manual deployment errors  
+🔹 Dockerized applications  
+🔹 GitHub Actions CI/CD  
+🔹 AWS EC2 zero-downtime deployment  
 
-**Tech:** Docker, GitHub Actions, AWS EC2  
-
----
-
-### 🏭 **Lathe Machine Monitoring System**
-- Real-time monitoring using Node-RED  
-- MongoDB time-series storage  
-- Grafana dashboards for analytics  
-- Automated PDF reports via email  
-
-**Tech:** Node-RED, MongoDB, Grafana  
+**Stack:** Docker · GitHub Actions · AWS  
 
 ---
 
-## 🎯 Internship Experience
+### 🏭 **Industrial Machine Monitoring System**
+🔹 Real-time monitoring (Node-RED)  
+🔹 MongoDB time-series storage  
+🔹 Grafana dashboards  
+🔹 Automated PDF email reports  
 
-### 💼 Web Development Intern – **Amdox Technologies**
-- Built secure REST APIs  
-- Handled 500+ records with authentication  
-- Improved UI performance  
-
-### 🐍 Python Development Intern – **Cognifyz Technologies**
-- Web scraping & automation  
-- Python utilities & problem-solving  
+**Stack:** Node-RED · MongoDB · Grafana  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 ELITE ENGINEER METRICS (100% STABLE)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krish-coder2003&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish-coder2003&theme=tokyonight" />
+  <img src="https://img.shields.io/github/followers/krish-coder2003?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/krish-coder2003?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/krish-coder2003?style=for-the-badge" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📈 CONTRIBUTION INTENSITY
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krish-coder2003&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE (ULTRA PREMIUM)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🤝 CONNECT WITH ME
 
 <p align="center">
   <a href="https://linkedin.com/in/krishna-shrangare-684952237">
@@ -127,4 +133,6 @@ I enjoy building **real-world applications**, designing **secure REST APIs**, an
 
 ---
 
-⭐ *“Always learning, always building.”*
+<p align="center">
+  <b>⚡ Engineering is not a skill — it’s a mindset.</b>
+</p>
